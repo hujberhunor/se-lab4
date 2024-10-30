@@ -1,2 +1,13 @@
+No ship has been initialized
+No ship has been initialized
+usage: GT4500,<PRI_CNT>,<PRI_FAIL_RATE>,<SEC_CNT>,<SEC_FAIL_RATE>
+
+# Befor ship init
 SUCCESS  # <- GT4500
 SUCCESS  # <- TORPEDO
+Unknown command: 'ASD' 
+
+# Ship init with 100% fail
+SUCCESS 
+FAIL
+FAIL
